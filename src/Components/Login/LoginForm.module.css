@@ -9,7 +9,7 @@
   line-height: 1;
 }
 
-.perdeu::after{
+.perdeu::after {
   content: '';
   height: 2px;
   width: 100%;
@@ -21,7 +21,7 @@
   margin-top: 4rem;
 }
 
-.cadastro p{
+.cadastro p {
   margin-top: 2rem;
   margin-bottom: 2rem;
 }
@@ -32,8 +32,8 @@
   font-size: 2rem;
 }
 
-.subtitle::after{
-  content: "";
+.subtitle::after {
+  content: '';
   display: block;
   background: #ddd;
   height: 0.5rem;
